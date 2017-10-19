@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>3.2</version>
+    <date>2017-10-18T21:28:54Z</date>
+    <value_maps>
+        <value_map>
+            <name>UPS Output Source</name>
+            <mappings>
+                <mapping>
+                    <value>1</value>
+                    <newvalue>other</newvalue>
+                </mapping>
+                <mapping>
+                    <value>2</value>
+                    <newvalue>none</newvalue>
+                </mapping>
+                <mapping>
+                    <value>3</value>
+                    <newvalue>normal</newvalue>
+                </mapping>
+                <mapping>
+                    <value>4</value>
+                    <newvalue>bypass</newvalue>
+                </mapping>
+                <mapping>
+                    <value>5</value>
+                    <newvalue>battery</newvalue>
+                </mapping>
+                <mapping>
+                    <value>6</value>
+                    <newvalue>booster</newvalue>
+                </mapping>
+                <mapping>
+                    <value>7</value>
+                    <newvalue>reducer</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+    </value_maps>
+</zabbix_export>

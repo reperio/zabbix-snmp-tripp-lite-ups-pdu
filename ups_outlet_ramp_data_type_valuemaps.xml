@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>3.2</version>
+    <date>2017-10-19T00:15:53Z</date>
+    <value_maps>
+        <value_map>
+            <name>UPS Outlet Ramp Data Type</name>
+            <mappings>
+                <mapping>
+                    <value>0</value>
+                    <newvalue>delayInSeconds</newvalue>
+                </mapping>
+            </mappings>
+        </value_map>
+    </value_maps>
+</zabbix_export>
